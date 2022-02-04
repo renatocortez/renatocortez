@@ -1,6 +1,6 @@
 ## Hello, I'm Renato, welcome 🖖
 
-💻 Front-End Developer
+💻 Front-End Developer Jr.
 
 Main technologies: Html, CSS, JavaScript and Python.
 - Bachelor's Degree in Business Administration
