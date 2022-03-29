@@ -4,9 +4,7 @@
 
 Main technologies: Html, CSS, JavaScript and Python.
 - Bachelor's Degree in Business Administration
-- Academic - Analysis & Systems Development at Católica - Santa Catarina
 - Academic - Software Engineer at freeCodeCamp - U.S.A
-- Studying through videos, documentation, forums and practicing a lot.
 
 <div align="center">
   <a href="https://github.com/renatocortez">
