@@ -1,10 +1,10 @@
 ## Hello, I'm Renato, welcome 🖖
 
-💻 Front-End Developer Jr.
+💻 Full Stack Developer Student
 
-Main technologies: Html, CSS, JavaScript and Python.
-- Bachelor's Degree in Business Administration
 - Academic - Software Engineer at freeCodeCamp - U.S.A
+- Bachelor's Degree in Business Administration
+Main technologies: Html, CSS, JavaScript and Python.
 
 <div align="center">
   <a href="https://github.com/renatocortez">
