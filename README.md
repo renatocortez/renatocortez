@@ -4,8 +4,7 @@
 
 - Academic - Software Engineer at freeCodeCamp - U.S.A
 - Bachelor's Degree in Business Administration
-- 
-Main technologies: Html, CSS, JavaScript and Python.
+- Main technologies: Html, CSS, JavaScript and Python.
 
 <div align="center">
   <a href="https://github.com/renatocortez">
