@@ -2,8 +2,8 @@
 
 💻 Full Stack Developer Student
 
-- Academic - Software Engineer at freeCodeCamp - U.S.A
-- Bachelor's Degree in Business Administration
+- Student - Full Stack Developer - Software Engineer at freeCodeCamp - U.S.A
+- Bachelor's Degree in Business Administration - Marketing
 - Main technologies: Html, CSS, JavaScript and Python.
 
 <div align="center">
